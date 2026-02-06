@@ -4,26 +4,70 @@
 // These filenames must match the images in the folder.
 // You can add or remove items as you like.
 const photoFiles = [
+  // Evening bridge & first photos
   "WhatsApp Image 2026-02-06 at 4.17.40 PM.jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.40 PM (1).jpeg",
+
+  // 4.17.41 series
   "WhatsApp Image 2026-02-06 at 4.17.41 PM.jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (1).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (2).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (3).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (4).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (5).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (6).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (7).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (8).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (9).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (10).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (11).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (12).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (13).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (14).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (15).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (16).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (17).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (18).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (19).jpeg",
+
+  // Single 4.21 photo
   "WhatsApp Image 2026-02-06 at 4.21.02 PM.jpeg",
+
+  // 4.27.17 series
   "WhatsApp Image 2026-02-06 at 4.27.17 PM.jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.17 PM (1).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.17 PM (2).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.17 PM (3).jpeg",
+
+  // 4.27.18 series
   "WhatsApp Image 2026-02-06 at 4.27.18 PM.jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.18 PM (1).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.18 PM (2).jpeg",
+
+  // 4.27.19 series (many trip shots)
   "WhatsApp Image 2026-02-06 at 4.27.19 PM.jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (1).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (2).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (3).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (4).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (5).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (6).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (7).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (8).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (9).jpeg"
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (9).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (10).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (11).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (12).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (13).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (14).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (15).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (16).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (17).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (18).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (19).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (20).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (21).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (22).jpeg"
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
