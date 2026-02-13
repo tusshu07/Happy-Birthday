@@ -464,6 +464,9 @@ a {
   transform: translateY(0) rotate(calc(var(--r, 0deg)));
   transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
   box-shadow: 0 14px 32px rgba(0, 0, 0, 0.55);
+  border-radius: 22px;
+  /* default vertical-ish look */
+  aspect-ratio: 3 / 4;
 }
 
 .gallery-item img {
@@ -472,6 +475,19 @@ a {
   object-fit: cover;
   transform: scale(1.04);
   transition: transform 0.35s ease;
+}
+
+/* collage-style variations for the grid */
+.gallery-item.wide {
+  aspect-ratio: 16 / 9;
+}
+
+.gallery-item.tall {
+  aspect-ratio: 9 / 16;
+}
+
+.gallery-item.big {
+  aspect-ratio: 4 / 3;
 }
 
 .gallery-item::after {

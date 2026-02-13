@@ -3,71 +3,80 @@
 // List of local photos for gallery and carousel.
 // These filenames must match the images in the folder.
 // You can add or remove items as you like.
+// IMPORTANT: This list must match the actual files in the folder.
+// It is generated from the filenames currently present in D:\Website.
 const photoFiles = [
-  // Evening bridge & first photos
-  "WhatsApp Image 2026-02-06 at 4.17.40 PM.jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.40 PM (1).jpeg",
-
-  // 4.17.41 series
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM.jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (1).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (2).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (3).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (4).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (5).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (6).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (7).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (8).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (9).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (10).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (11).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (12).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (13).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (14).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (15).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (16).jpeg",
   "WhatsApp Image 2026-02-06 at 4.17.41 PM (17).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (18).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.17.41 PM (19).jpeg",
-
-  // Single 4.21 photo
-  "WhatsApp Image 2026-02-06 at 4.21.02 PM.jpeg",
-
-  // 4.27.17 series
-  "WhatsApp Image 2026-02-06 at 4.27.17 PM.jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.17 PM (1).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (3).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (5).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.17.41 PM (6).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.17 PM (2).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.17 PM (3).jpeg",
-
-  // 4.27.18 series
-  "WhatsApp Image 2026-02-06 at 4.27.18 PM.jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.18 PM (1).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.18 PM (2).jpeg",
-
-  // 4.27.19 series (many trip shots)
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM.jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (1).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (2).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (3).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (4).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (5).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (6).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (7).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (8).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (9).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.17 PM.jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (10).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (11).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (12).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (13).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (14).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (15).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (16).jpeg",
   "WhatsApp Image 2026-02-06 at 4.27.19 PM (17).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (18).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (19).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (20).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (21).jpeg",
-  "WhatsApp Image 2026-02-06 at 4.27.19 PM (22).jpeg"
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (2).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (22).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (5).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (6).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (8).jpeg",
+  "WhatsApp Image 2026-02-06 at 4.27.19 PM (9).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.19.50 PM (1).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.19.50 PM (2).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.19.50 PM (3).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.19.50 PM.jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.45 PM.jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (10).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (12).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (13).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (14).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (15).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (16).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (17).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (18).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (19).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (2).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (20).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (21).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (22).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (3).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (4).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (5).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (6).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (7).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (8).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM (9).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.41.46 PM.jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.07 PM (1).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.07 PM (2).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.07 PM (3).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.07 PM (4).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.07 PM (5).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.07 PM (6).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.07 PM (7).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.07 PM.jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM (1).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM (2).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM (3).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM (4).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM (5).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM (6).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM (7).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM (8).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.08 PM.jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.09 PM (1).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.09 PM (2).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.09 PM (3).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.09 PM (4).jpeg",
+  "WhatsApp Image 2026-02-13 at 3.48.09 PM.jpeg"
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -126,6 +135,15 @@ function initHomePage() {
     // Random small rotation for playful layout
     const rot = (Math.random() * 6 - 3).toFixed(1);
     item.style.setProperty("--r", rot + "deg");
+
+    // Give some items different shapes for a collage feel
+    if (index % 11 === 0) {
+      item.classList.add("big");
+    } else if (index % 5 === 0) {
+      item.classList.add("wide");
+    } else if (index % 3 === 0) {
+      item.classList.add("tall");
+    }
 
     const img = document.createElement("img");
     img.src = file;
